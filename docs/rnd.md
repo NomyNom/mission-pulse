@@ -19,5 +19,3 @@ and displays alerts in Open MCT.
 ## Phase 1: Data Preparation
 
 
-
-
